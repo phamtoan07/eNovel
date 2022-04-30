@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Novel.Core\**" />
+    <Compile Remove="Novel.Data\**" />
+    <Compile Remove="Novel.Models\**" />
+    <Compile Remove="Novel.Services\**" />
+    <Content Remove="Novel.Core\**" />
+    <Content Remove="Novel.Data\**" />
+    <Content Remove="Novel.Models\**" />
+    <Content Remove="Novel.Services\**" />
+    <EmbeddedResource Remove="Novel.Core\**" />
+    <EmbeddedResource Remove="Novel.Data\**" />
+    <EmbeddedResource Remove="Novel.Models\**" />
+    <EmbeddedResource Remove="Novel.Services\**" />
+    <None Remove="Novel.Core\**" />
+    <None Remove="Novel.Data\**" />
+    <None Remove="Novel.Models\**" />
+    <None Remove="Novel.Services\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="10.0.1" />
+  </ItemGroup>
+
+</Project>

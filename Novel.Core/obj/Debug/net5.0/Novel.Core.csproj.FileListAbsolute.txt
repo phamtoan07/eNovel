@@ -1,0 +1,15 @@
+D:\dotnet\git\eNovel\Novel.Core\bin\Debug\net5.0\Novel.Core.deps.json
+D:\dotnet\git\eNovel\Novel.Core\bin\Debug\net5.0\Novel.Core.dll
+D:\dotnet\git\eNovel\Novel.Core\bin\Debug\net5.0\ref\Novel.Core.dll
+D:\dotnet\git\eNovel\Novel.Core\bin\Debug\net5.0\Novel.Core.pdb
+D:\dotnet\git\eNovel\Novel.Core\bin\Debug\net5.0\Novel.Data.dll
+D:\dotnet\git\eNovel\Novel.Core\bin\Debug\net5.0\Novel.Data.pdb
+D:\dotnet\git\eNovel\Novel.Core\obj\Debug\net5.0\Novel.Core.csproj.AssemblyReference.cache
+D:\dotnet\git\eNovel\Novel.Core\obj\Debug\net5.0\Novel.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\git\eNovel\Novel.Core\obj\Debug\net5.0\Novel.Core.AssemblyInfoInputs.cache
+D:\dotnet\git\eNovel\Novel.Core\obj\Debug\net5.0\Novel.Core.AssemblyInfo.cs
+D:\dotnet\git\eNovel\Novel.Core\obj\Debug\net5.0\Novel.Core.csproj.CoreCompileInputs.cache
+D:\dotnet\git\eNovel\Novel.Core\obj\Debug\net5.0\Novel.Core.csproj.CopyComplete
+D:\dotnet\git\eNovel\Novel.Core\obj\Debug\net5.0\Novel.Core.dll
+D:\dotnet\git\eNovel\Novel.Core\obj\Debug\net5.0\ref\Novel.Core.dll
+D:\dotnet\git\eNovel\Novel.Core\obj\Debug\net5.0\Novel.Core.pdb

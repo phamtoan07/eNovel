@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/NCt4iybn8veyzoQxBYFS4ghI4OUpr+ofQfRCFhhqUlW+8LcX16L5XXKCYMFdvnu1AhzykJ+mO7jczIjWe1+pA==",
+  "success": true,
+  "projectFilePath": "D:\\dotnet\\git\\eNovel\\eNovel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phamn\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\phamn\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

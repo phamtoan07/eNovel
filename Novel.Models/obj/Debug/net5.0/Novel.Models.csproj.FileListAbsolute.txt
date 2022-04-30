@@ -1,0 +1,12 @@
+D:\dotnet\git\eNovel\Novel.Models\bin\Debug\net5.0\Novel.Models.deps.json
+D:\dotnet\git\eNovel\Novel.Models\bin\Debug\net5.0\Novel.Models.dll
+D:\dotnet\git\eNovel\Novel.Models\bin\Debug\net5.0\ref\Novel.Models.dll
+D:\dotnet\git\eNovel\Novel.Models\bin\Debug\net5.0\Novel.Models.pdb
+D:\dotnet\git\eNovel\Novel.Models\obj\Debug\net5.0\Novel.Models.csproj.AssemblyReference.cache
+D:\dotnet\git\eNovel\Novel.Models\obj\Debug\net5.0\Novel.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\git\eNovel\Novel.Models\obj\Debug\net5.0\Novel.Models.AssemblyInfoInputs.cache
+D:\dotnet\git\eNovel\Novel.Models\obj\Debug\net5.0\Novel.Models.AssemblyInfo.cs
+D:\dotnet\git\eNovel\Novel.Models\obj\Debug\net5.0\Novel.Models.csproj.CoreCompileInputs.cache
+D:\dotnet\git\eNovel\Novel.Models\obj\Debug\net5.0\Novel.Models.dll
+D:\dotnet\git\eNovel\Novel.Models\obj\Debug\net5.0\ref\Novel.Models.dll
+D:\dotnet\git\eNovel\Novel.Models\obj\Debug\net5.0\Novel.Models.pdb

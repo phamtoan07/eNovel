@@ -1,0 +1,5 @@
+D:\dotnet\git\eNovel\Novel.Services\obj\Debug\net5.0\Novel.Services.csproj.AssemblyReference.cache
+D:\dotnet\git\eNovel\Novel.Services\obj\Debug\net5.0\Novel.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\git\eNovel\Novel.Services\obj\Debug\net5.0\Novel.Services.AssemblyInfoInputs.cache
+D:\dotnet\git\eNovel\Novel.Services\obj\Debug\net5.0\Novel.Services.AssemblyInfo.cs
+D:\dotnet\git\eNovel\Novel.Services\obj\Debug\net5.0\Novel.Services.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+D:\dotnet\git\eNovel\Novel.Data\bin\Debug\net5.0\Novel.Data.deps.json
+D:\dotnet\git\eNovel\Novel.Data\bin\Debug\net5.0\Novel.Data.dll
+D:\dotnet\git\eNovel\Novel.Data\bin\Debug\net5.0\ref\Novel.Data.dll
+D:\dotnet\git\eNovel\Novel.Data\bin\Debug\net5.0\Novel.Data.pdb
+D:\dotnet\git\eNovel\Novel.Data\obj\Debug\net5.0\Novel.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\git\eNovel\Novel.Data\obj\Debug\net5.0\Novel.Data.AssemblyInfoInputs.cache
+D:\dotnet\git\eNovel\Novel.Data\obj\Debug\net5.0\Novel.Data.AssemblyInfo.cs
+D:\dotnet\git\eNovel\Novel.Data\obj\Debug\net5.0\Novel.Data.csproj.CoreCompileInputs.cache
+D:\dotnet\git\eNovel\Novel.Data\obj\Debug\net5.0\Novel.Data.dll
+D:\dotnet\git\eNovel\Novel.Data\obj\Debug\net5.0\ref\Novel.Data.dll
+D:\dotnet\git\eNovel\Novel.Data\obj\Debug\net5.0\Novel.Data.pdb
